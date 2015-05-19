@@ -1,0 +1,1 @@
+GroupBuy is a project which is using to collect the quantity of products customer wants to buy.
